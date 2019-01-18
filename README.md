@@ -1,4 +1,4 @@
-**FINAL PROJECT**
+**Visualizing Chicago's Schools and Crime**
 
 -By Connor Lockman
 
