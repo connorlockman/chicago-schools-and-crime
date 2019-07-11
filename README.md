@@ -5,7 +5,7 @@
 
 This is a visualization project.  It will allow you to access information about Chicago Public Schools and crime within the city.
 
-This project makes use of two data souces. Ultimatley, the program plots where each elementary / middle school is located within the city and plots all reported homicides that have occurred across the city over the year 2018.  The goal of this project is to help visualize the proximity of Chicago's youth to crime that occurs across the city.  The plot.ly map also contains information about the schools "ranking" assigned by the Chicago Public Schools District.  
+This project makes use of two data souces. Ultimately, the program plots where each elementary / middle school is located within the city and all reported homicides that have occurred across the city over the year 2018.  The goal of this project is to help visualize the proximity of Chicago's youth to crime that occurs across the city.  The plot.ly map also contains information about the schools "ranking" assigned by the Chicago Public Schools District.  
 
 **Data Sources**
 1) A large XLS file that is in the repo title "Accountability_SQRPratings_2018-2019_SchoolLevel.xls".  It contains information about every Chicago Public School within the city.
